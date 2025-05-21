@@ -74,6 +74,4 @@ I encountered a small bug where key inputs failed when Caps Lock was enabled. Th
 
 ![Caps Lock Fix](repoImages/Picture7.png)
 
----
 
-This README is now structured for clarity and proper Markdown formatting on GitHub. Let me know if you need any tweaks!
